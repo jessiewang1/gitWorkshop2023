@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ignores/removes the file:
+##gitWorkshop2023.Rproj
+
+# ignore all files that have file extension .Rproj:
+##*.Rproj
+
